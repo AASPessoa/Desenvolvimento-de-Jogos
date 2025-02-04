@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 17ffa29ab0cab144a80802f677084610
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8878558862008370345
+    second: rmzxa_live_metal_h_0
+  - first:
+      213: 5853669833798334587
+    second: rmzxa_live_metal_h_1
+  - first:
+      213: -1660217317603952212
+    second: rmzxa_live_metal_h_2
+  - first:
+      213: -2366217589229944824
+    second: rmzxa_live_metal_h_3
+  - first:
+      213: 4660525340777329566
+    second: rmzxa_live_metal_h_4
+  - first:
+      213: -7035733547994779433
+    second: rmzxa_live_metal_h_5
+  - first:
+      213: -6087678974579374874
+    second: rmzxa_live_metal_h_6
+  - first:
+      213: 7917428215424499282
+    second: rmzxa_live_metal_h_7
+  - first:
+      213: -2557600558896600732
+    second: rmzxa_live_metal_h_8
+  - first:
+      213: -4195635736648276989
+    second: rmzxa_live_metal_h_9
+  - first:
+      213: 533205635264791600
+    second: rmzxa_live_metal_h_10
+  - first:
+      213: 7335514029498434801
+    second: rmzxa_live_metal_h_11
+  - first:
+      213: 7680341556708889707
+    second: rmzxa_live_metal_h_12
+  - first:
+      213: -8134184523324073188
+    second: rmzxa_live_metal_h_13
+  - first:
+      213: 464598502239415959
+    second: rmzxa_live_metal_h_14
+  - first:
+      213: 8287900788123062977
+    second: rmzxa_live_metal_h_15
+  - first:
+      213: -6620298341838764122
+    second: rmzxa_live_metal_h_16
+  - first:
+      213: -6726855527990868502
+    second: rmzxa_live_metal_h_17
+  - first:
+      213: -708668596453382036
+    second: rmzxa_live_metal_h_18
+  - first:
+      213: 5501789561280024797
+    second: rmzxa_live_metal_h_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 78
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a054fb33156af648a5e13e70217c6f7
+      internalID: 409415699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 78
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d02991fd69e1943a4793a4a1cf3e36
+      internalID: -1900973219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 77
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e16ffa9397d474eae34cca37ebfcfd
+      internalID: -1490029063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 77
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725524158779c1642a4a9d6fc87a5c2e
+      internalID: -238520755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 78
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e941e6d1ccb04da87ed6202a595fa
+      internalID: 50847960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1facb38db1dab04fb8a9998f2f76097
+      internalID: 2122906670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 50
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14ecafd456b4644685691b33b7bd1e6
+      internalID: 1395884870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 49
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5964f24b2b681c418978e787605791b
+      internalID: -984449656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 49
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde47d3d3ce3d604ea2ee82cc69a180b
+      internalID: 1482696458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e7fdcb2724fb54691f8021dc8603a5
+      internalID: 153513567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 26
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070d57379ae60374897dca31c385290e
+      internalID: 928664069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 26
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079ec03f538180047b39119605f82fe4
+      internalID: 1199545134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 26
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5918687e0b84d4284bdafb7397ffe5
+      internalID: 579281840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 26
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4646f45b06a8bf54faa7014ee20ce7a2
+      internalID: -1971008927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 26
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c763a1ea64f850744bc460116b011a3f
+      internalID: 1461306120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f07cc350c325748b52eff28e47ba6c
+      internalID: 728239125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e62bbc5340ae4e4cbf1a0b0a5cd7276
+      internalID: -1657856917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df90f485b0fd194d8058c61ac49eaa2
+      internalID: 1540616595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a803d0932186d146a3b247d0e3eb0d7
+      internalID: -1973180054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmzxa_live_metal_h_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9729006681ffe4c9610ac14b6ef916
+      internalID: 1691158970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 28c5e078aad698b4eb51829fe0510222
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rmzxa_live_metal_h_0: 409415699
+      rmzxa_live_metal_h_1: -1900973219
+      rmzxa_live_metal_h_10: 928664069
+      rmzxa_live_metal_h_11: 1199545134
+      rmzxa_live_metal_h_12: 579281840
+      rmzxa_live_metal_h_13: -1971008927
+      rmzxa_live_metal_h_14: 1461306120
+      rmzxa_live_metal_h_15: 728239125
+      rmzxa_live_metal_h_16: -1657856917
+      rmzxa_live_metal_h_17: 1540616595
+      rmzxa_live_metal_h_18: -1973180054
+      rmzxa_live_metal_h_19: 1691158970
+      rmzxa_live_metal_h_2: -1490029063
+      rmzxa_live_metal_h_3: -238520755
+      rmzxa_live_metal_h_4: 50847960
+      rmzxa_live_metal_h_5: 2122906670
+      rmzxa_live_metal_h_6: 1395884870
+      rmzxa_live_metal_h_7: -984449656
+      rmzxa_live_metal_h_8: 1482696458
+      rmzxa_live_metal_h_9: 153513567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
